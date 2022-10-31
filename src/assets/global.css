@@ -3,3 +3,11 @@ nav {
   padding: 2rem;
   color: hsl(231deg 80% 20%);
 }
+
+.map-container__map{
+  display: flex;
+  justify-content: center;
+  padding: 1rem;
+  height: 60vh;
+  width: 100%;
+}
